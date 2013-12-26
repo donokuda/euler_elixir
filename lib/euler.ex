@@ -4,6 +4,7 @@ defmodule Euler do
 
     ## Solved Problems
     Problem 1 - 12/25/2013
+    Problem 2 - 12/26/2013
 
   """
 
