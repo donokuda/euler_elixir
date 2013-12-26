@@ -1,3 +1,3 @@
 # Euler
 
-** TODO: Add description **
+** Project Euler problems solved with Elixir **
