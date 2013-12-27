@@ -39,7 +39,7 @@ defmodule Euler.Problem2 do
   end
 
   def fib_numbers(array, max_number) do
-    if Enum.empty? array || (List.last(array) < max_number) do
+    if Enum.empty?(array) || (List.last(array) < max_number) do
       fib_numbers(append_fib_number(array), max_number)
     else
       array
