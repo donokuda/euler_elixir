@@ -1,4 +1,6 @@
 defmodule Euler.Problem2 do
+  require Integer
+
   @moduledoc """
 
     # Problem 2: Even Fibonacci numbers
